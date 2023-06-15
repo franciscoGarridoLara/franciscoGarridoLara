@@ -9,7 +9,7 @@
 - Spoken Languages: 🇪🇸 🇺🇸 🇬🇧
 - Favourite OS: Linux (LPI cert).
 - Networking: Basic knowledge (CISCO Routing and Switch cert).
-- Security: Basic Pentesting knowlege (Some HTB and Vulnhub challenges), would like to do a course to know how to implement ISO 27001 certification.
+- Security: Basic Pentesting knowlege (Some HTB and Vulnhub challenges).
 - Programming Languages (1-10 knowledge): Java(7), React(2), Kotlin(6), PHP(4), Python(5), Javascript(5), C#(6), Bash(5).
 - Databases: Mysql, MariaDB, PostgreSql, MongoDB, ElasticSearch.
 - Kubernetes: Rancher, Minikube, Istio, Longhorn.
