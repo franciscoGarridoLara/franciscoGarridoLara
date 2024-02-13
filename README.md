@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kubernetes (Rancher), Cloud Solutions like Cloudflare or AWS and React as well for creating good looking UI's.
 - 💞️ I’m looking to collaborate on cool projects that involve programming and security.
 - 📫 You can reach me by email (francisco.garrido.tec@gmail.com) or linkedin (https://www.linkedin.com/in/francisco-garrido-0b418b1b4/).
-- 💻 Currently working as a Dev Sec Ops and Developer at GlobalIncubator.
+- 💻 Currently working as Security Engineer in UMB.
 - 🌍 Presently i'm living in spain.
 
 - Spoken Languages: 🇪🇸 🇺🇸 🇬🇧
